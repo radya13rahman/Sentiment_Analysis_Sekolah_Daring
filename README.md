@@ -9,8 +9,8 @@ Beberapa dataset yang dapat digunakan adalah
 5. liatduludeh4.csv ---> berisikan data yang sudah dicleaning untuk model, hanya berisikan kata - kata yang mendukung sentimen tertentu (600 data)
 
 Beberapa code IPYNB yang dapat digunakan adalah
-AnalisaPersebaranKata.ipynb ---> berisikan code untuk melakukan analisa persebaran kata pada data cobaaja.csv
-PemodelandanPenggunaan.ipynb ---> berisikan code untuk menganalisis akurasi model terbaik menggunakan dataset lihatduludeh4.csv dan mengaplikasikannya
+1. AnalisaPersebaranKata.ipynb ---> berisikan code untuk melakukan analisa persebaran kata pada data cobaaja.csv
+2. PemodelandanPenggunaan.ipynb ---> berisikan code untuk menganalisis akurasi model terbaik menggunakan dataset lihatduludeh4.csv dan mengaplikasikannya
 pada dataset datatest.csv 
-preprocessing_data.ipynb ---> berisikan code yang berfungsi untuk cleaning data_total.csv menjadi liatduludeh.csv
-preprocessing_data(cont).ipynb ---> berisikan code yang berfungsi untuk cleaning dari liatduludeh.csv menjadi cobaaja.csv
+3. preprocessing_data.ipynb ---> berisikan code yang berfungsi untuk cleaning data_total.csv menjadi liatduludeh.csv
+4. preprocessing_data(cont).ipynb ---> berisikan code yang berfungsi untuk cleaning dari liatduludeh.csv menjadi cobaaja.csv
